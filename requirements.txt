@@ -4,6 +4,6 @@ numpy==2.0.2
 scikit-learn==1.6.1
 xgboost==2.1.4
 torch==2.2.2
-torchaudio==2.2.2
 torchvision==0.15.2
+torchaudio==2.2.2
 joblib==1.5.1
